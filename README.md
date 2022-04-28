@@ -1,4 +1,4 @@
-# team16
+# Team16 - American Sign Language Recognition
 ## Dataset Information
 ### Dataset Download
 Dataset is original from: [Kaggle Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)  
