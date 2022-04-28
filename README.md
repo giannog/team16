@@ -10,7 +10,7 @@ The processed one can be downloaded from here: [Google Drive](https://drive.goog
 2. When downloading, name the zip file into "Sign Language MNIST.zip"
 3. Uncompress the file:  
     `Windows`: Right click the zip file and select `Extract All...`, and click `Extract`  
-    `Linux` ( the whitespace should use backslash to mask ):
+    `Linux` ( To present the whitespace, you need to use escape character `\`, see below ):
     ```
     mkdir Sign\ Language\ MNIST
     unzip Sign\ Language\ MNIST.zip -d ./Sign\ Language\ MNIST
