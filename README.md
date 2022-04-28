@@ -4,7 +4,7 @@
 Dataset is original from: [Kaggle Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)  
 The processed one can be downloaded from here: [Google Drive](https://drive.google.com/drive/folders/1qqG8eZ96EcRoO-1jaVLY1na6iS3iUi2T?usp=sharing)
 ### Dataset Usage
-Choose only one method below:  
+**Choose only one method below: **
 #### A. Original one  
 1. You may need to register for one account to download the kaggle dataset
 2. When downloading, name the zip file into "Sign Language MNIST.zip"
