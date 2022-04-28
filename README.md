@@ -18,10 +18,10 @@ The processed one can be downloaded from here: [Google Drive](https://drive.goog
     `MAC OS`: Directly double-click the zip file
 4. Once uncompressed, you will have a folder named "Sign Language MNIST" which contains the following contents:  
 ![Original Dataset Content](original%20dataset%20content.png)
-5. Copy the whole folder to your Google Drive under the following path (create the path if you do not have):
+5. Copy the whole folder to your Google Drive under the following path (create the path if you do not have):  
 `Colab Notebooks/Artificial Intelligence/Data/`
 6. Once done, you can try the notebook file without any issue.
 #### B. Processed one  
-1. Copy the whole folder to your Google Drive under the following path (create the path if you do not have):
+1. Copy the whole folder to your Google Drive under the following path (create the path if you do not have):  
 `Colab Notebooks/Artificial Intelligence/Data/`
 2. Once done, you can try the notebook file without any issue.
