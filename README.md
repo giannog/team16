@@ -17,5 +17,5 @@ a. Original one
     ```
     `MAC OS`: Directly double-click the zip file
 4. Once uncompressed, you will have a folder named "Sign Language MNIST" which contains the following contents:  
-
+![Original Dataset Content](original dataset content.png)
 b. Processed one  
