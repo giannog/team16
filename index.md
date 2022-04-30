@@ -6,7 +6,7 @@ Dataset: Sign Language MNIST.
 
 The code are partially based on the ViT model on keras. ViT are proposed by Alexey Dosovitskiy et al. for image classification, which applies the Transformer architecture with self-attention to sequences of image patches, without using convolution layers.
 
-```markdown
+```training
 Syntax highlighted code block
 basePath = ''
 train = pd.read_csv(basePath + "sign_mnist_train.csv")
@@ -20,6 +20,7 @@ if not os.path.exists(basePath + "test_pic"):
 
 train_pic_path = basePath + "train_pic/"
 test_pic_path = basePath + "test_pic/"
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
