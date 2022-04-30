@@ -1,4 +1,25 @@
 Welcome to Team 16 
+### Features
+Implementing the Vision Transformer (ViT) model for American Sign Language (ASL) image classification.
+
+Dataset: Sign Language MNIST.
+
+The code are partially based on the ViT model on keras. ViT are proposed by Alexey Dosovitskiy et al. for image classification, which applies the Transformer architecture with self-attention to sequences of image patches, without using convolution layers.
+
+```markdown
+Syntax highlighted code block
+basePath = ''
+train = pd.read_csv(basePath + "sign_mnist_train.csv")
+test = pd.read_csv(basePath + "sign_mnist_test.csv")
+
+# generate pictures stored path
+if not os.path.exists(basePath + "train_pic"):
+    os.mkdir(basePath + "train_pic")
+if not os.path.exists(basePath + "test_pic"):
+    os.mkdir(basePath + "test_pic")
+
+train_pic_path = basePath + "train_pic/"
+test_pic_path = basePath + "test_pic/"
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
