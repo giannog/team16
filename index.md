@@ -21,6 +21,8 @@ if not os.path.exists(basePath + "test_pic"):
 train_pic_path = basePath + "train_pic/"
 test_pic_path = basePath + "test_pic/"
 ```
+### Data Loading
+![data loading](https://user-images.githubusercontent.com/100370619/166123725-10a7becc-e12e-42cd-aaac-1245dd0ccdc7.PNG))
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
