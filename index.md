@@ -44,6 +44,7 @@ data_augmentation.layers[0].adapt(x_train)
 ```
 ### Patch creation layer
 Let's display patches for a sample image
+
 ```import matplotlib.pyplot as plt
 
 plt.figure(figsize=(4, 4))
@@ -70,10 +71,13 @@ for i, patch in enumerate(patches[0]):
 ```
 
 ### Data Loading
+
 ![data loading](https://user-images.githubusercontent.com/100370619/166123725-10a7becc-e12e-42cd-aaac-1245dd0ccdc7.PNG)
 
 ### Construct the model
+
 The ViT model that consists of multiple Transformer blocks
+
 ```
 def create_vit_classifier():
     inputs = layers.Input(shape=input_shape)
