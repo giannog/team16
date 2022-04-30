@@ -45,7 +45,8 @@ data_augmentation.layers[0].adapt(x_train)
 ### Patch creation layer
 Let's display patches for a sample image
 
-```import matplotlib.pyplot as plt
+```
+import matplotlib.pyplot as plt
 
 plt.figure(figsize=(4, 4))
 image = x_train[np.random.choice(range(x_train.shape[0]))]
