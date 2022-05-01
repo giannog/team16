@@ -125,6 +125,7 @@ def create_vit_classifier():
 After 8 epochs, the ViT model achieves around 99.2% accuracy and 100% top-5 accuracy on the ASL test data.
 ![accuracy plot](https://user-images.githubusercontent.com/100370619/166130530-df374224-4bcd-4cc6-a3c2-2c4e87f9d4f6.PNG)
 
+### Video
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uAUrPkzlEgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
