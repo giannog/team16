@@ -118,6 +118,16 @@ def create_vit_classifier():
     model = keras.Model(inputs=inputs, outputs=logits)
     return model
 ```
+### Model Training
+![epoch 8](https://user-images.githubusercontent.com/100370619/166130516-f13d34a8-a32e-477c-b314-0212dc6c8bc8.PNG)
+
+### Evaluation results
+After 8 epochs, the ViT model achieves around 99.2% accuracy and 100% top-5 accuracy on the ASL test data.
+![accuracy plot](https://user-images.githubusercontent.com/100370619/166130530-df374224-4bcd-4cc6-a3c2-2c4e87f9d4f6.PNG)
+
+
+
+
 
 ### Markdown
 
