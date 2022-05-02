@@ -1,8 +1,8 @@
 # Team16 - American Sign Language Recognition
 ## Web Site
-https://giannog.github.io/team16/
+https://giannog.github.io/team16/  
 ## Poster
-
+https://github.com/giannog/team16/blob/main/poster.pdf  
 ## Presentation Video Link
 https://youtu.be/uAUrPkzlEgs  
 
